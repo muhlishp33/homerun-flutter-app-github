@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "786204725778",
+    "project_id": "homerun-af3c4",
+    "storage_bucket": "homerun-af3c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786204725778:android:8022ab6838bed67e22fecb",
+        "android_client_info": {
+          "package_name": "com.homerunapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786204725778-9el4e7dqukf58l2slkv1pb1hr8qmuied.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDo0svzIb6D2fh77VgotLQznFIoHCM10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786204725778-9el4e7dqukf58l2slkv1pb1hr8qmuied.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786204725778-mdijoig5p7nojls8jnuc2mleruv5vrrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.homerunapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "homerun",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "deploy": "flutter build web --profile --dart-define=Dart2jsOptimization=O0 && firebase deploy --only hosting:homerunclient",
+    "apk": "flutter build apk",
+    "aab": "flutter build appbundle",
+    "web": "flutter run -d chrome --debug",
+    "ios": "flutter build ios"
+  }
+}
